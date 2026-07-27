@@ -1,4 +1,3 @@
-
 function SkillCard({ skill }) {
   return (
     <div className="skill-card">
