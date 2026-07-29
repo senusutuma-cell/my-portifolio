@@ -1,11 +1,12 @@
 export const personalInfo = {
-  name: "Sena Sutuma",
-  title: "front end developer",
-  bio: "Passionate front-end developer specializing in building responsive, user-friendly web applications using modern JavaScript and React. Always eager to learn new technologies and build clean web experiences.",
+  name: "Sena",
+  title: "Software engineer",
+  bio: "Software engineer dedicated to building modern, responsive, and user-friendly web applications. Skilled in React, component-driven design, and modern CSS frameworks, I am always eager to learn new technologies, collaborate on creative projects, and build impactful software.",
   email: "Senusutuma@gmail.com",
   socials: {
     github: "https://github.com/senusutuma-cell",
     linkedin: "https://www.linkedin.com/in/sena-sutuma",
+    instagram: "https://www.instagram.com/senu_thion",
   },
 };
 
@@ -23,7 +24,7 @@ export const projectsData = [
     title: "E-Commerce backend",
     description: "A robust backend system for managing e-commerce operations.",
     techStack: ["JavaScript"],
-    githubLink: "",
+    githubLink: "#",
     demoLink: "#"
   },
   {
